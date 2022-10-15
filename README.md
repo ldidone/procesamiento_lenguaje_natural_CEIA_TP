@@ -6,13 +6,13 @@ Code repository for the practical works of the Natural Language Processing cours
 ## Index of practical works
 
 ### Challenge 1: Text vectorizer
-I have builded adhoc algorithms to One Hot Encoding, Frequency Vectors, TF - IDF and document comparison using cosine distance.
+I've made adhoc algorithms to One Hot Encoding, Frequency Vectors, TF - IDF and document comparison using cosine distance.
 - [Notebook](https://github.com/ldidone/procesamiento_lenguaje_natural_CEIA_TP/blob/main/Desaf%C3%ADo%201/1a%20-%20word2vec.ipynb)
 
 ![image](https://user-images.githubusercontent.com/26725551/195996771-5e58ec5c-6885-48d7-941f-5f05eb81d90c.png)
 
 ### Challenge 2: Simple bot using DNN
-I have made a simple bot using a neural network to answer questions related to FAQ's of AirBnB hosts .
+I've made a simple bot using a neural network to answer questions related to FAQ's of AirBnB hosts .
 - [Notebook](https://github.com/ldidone/procesamiento_lenguaje_natural_CEIA_TP/blob/main/Desaf%C3%ADo%202/2b%20-%20bot_dnn_spacy_esp.ipynb)
 
 ![image](https://user-images.githubusercontent.com/26725551/195996867-5386da36-402f-4037-922b-3bea9339fcd4.png)
